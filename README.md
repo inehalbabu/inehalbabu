@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between;">
-  <span style="flex: 1;">
+  <span">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Nehal" alt="Typing SVG">
   </span>
   <span style="flex: 1; text-align: right;">
