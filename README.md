@@ -7,9 +7,9 @@
 </p>
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inehalbabu&theme=react&hide_border=false)
-<br/>
-
+</p>
 
 ---
 ## My contributions
