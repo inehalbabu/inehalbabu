@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <span">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Nehal" alt="Typing SVG">
   </span>
@@ -6,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=inehalbabu&color=dc143c&style=for-the-badge" alt="Profile views">
   </span>
 </div>
+
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inehalbabu&theme=react&hide_border=false" alt="GitHub Streak Stats">
