@@ -1,11 +1,13 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: left;">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Nehal" alt="Typing SVG">
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://komarev.com/ghpvc/?username=inehalbabu&color=dc143c&style=for-the-badge" alt="Profile views">
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: left; width: 50%;">
+      <img src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!+I'm+Nehal" alt="Typing SVG">
+    </td>
+    <td style="text-align: right; width: 50%;">
+      <img src="https://komarev.com/ghpvc/?username=inehalbabu&color=dc143c&style=for-the-badge" alt="Profile views">
+    </td>
+  </tr>
+</table>
 
 
 # 📊 GitHub Stats:
